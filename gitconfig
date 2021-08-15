@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jonnybell123@hotmail.com
+	name = jonathan bell
